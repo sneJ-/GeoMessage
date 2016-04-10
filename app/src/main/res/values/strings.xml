@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoMessage</string>
+    <string name="title_activity_maps">GeoMessage</string>
+    <string name="title_activity_maps3">Map</string>
+</resources>

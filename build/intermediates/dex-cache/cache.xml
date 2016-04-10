@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_1607b964538da981b520e2216a5cfcfe71f4a8d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_04549a765a178e06f616403d49a5569adfbeb773\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c15ad1600ccae0e91270459309a0fd782399bd13">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_873a232803c1827dea7352a6e45f37c3171d54f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_d09f658d707121057a32cfbd86e155990586804a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_ff2924e2adb0a99039b6cca2a15e5d9082c52e99\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_448ce928577d5d3a322f39d41c0d945717bce94b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_6f4ec3777b2b2086e12e6a390e2acb2e5133c767\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_1fab949bc73e2732cabfce9e350e3fccdd64f8f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_db025d24c7d82654b86b0ac74f9f3561e3f7d54f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_08d4d911faeef0fdf8c7c8c5a7f80c26e778e641\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_d503030b9cba40ba7d991af8ccd9997f9d6d0f40\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_b0e76c9625efada0dc447111288829308b6662de\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_443ad01d623fe687107c88a61a315296c75a312b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_5cc42b8fa3325df7450ead40446c04bc02389862\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_8c5fc6656d4f49b8346ecacd1515636903ff02a1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_f21cfb7354b3af9d1842bf014956c67d1f543874\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_1578890d9a9bfeadc2fd8c197d879b7dd47df97b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_2d8b66fe5e27a6822131754d4a78fc2d1e29ce50\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_206a81a8d655e231c20b6daee2fdbebf40a79d87\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_969cdf4720f3fb1daebfcde7a2d0445ee51a32df\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_b54a12d1b434d2178d6ee09cbb8f6be96d584d84\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_7e5cff62bedde9b473b2dfde07d600950073817c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="782c14d58940ccd92f24fe195c862dcf7058d56d">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d65022c6031fca3272aa5d1e62352c1da4b1ee51\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_daadd2b64ee82c69c5899b3293ee80ae2e96accf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_18e2f0530dba14829f2b5b9da0959ca5464a84f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_b82be929398ae195cd35af4038c6aac78961ebcc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_43cd833cf3db2e691cb0d24d8b5da8bc1a380ff6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_9f9678c7f99fdf2e587abf5f6bf71af829f6941b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_d80f839d50f200557dd8a4120c53ae985ecb5f84\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_dfa5306cf54b1a486027792283c3ec87a8b2654c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_26ce2cbc1a9baaf7a72df869e0f8c2f1973f2187\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_334191b664e6b535e51f655bf13072db56985009\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Kiteflyer\AndroidStudioProjects\GeoMessage\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_3f24dfaf39411c4e3cb7d61af1e7ba4cd0680f7c\classes.dex" />
+    </item>
+
+</items>
